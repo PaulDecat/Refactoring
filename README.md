@@ -1,5 +1,7 @@
 # Services App — Refonte (PHP from scratch)
 
+# Projet Par Paul et Jules
+
 ## But
 Refactorer le mini-projet fourni pour appliquer des bonnes pratiques : séparation des couches, modèles clairs, validations, README, .gitignore et outillage (php-cs-fixer).
 
@@ -21,14 +23,7 @@ Refactorer le mini-projet fourni pour appliquer des bonnes pratiques : séparati
 - templates/ — vues HTML simples
 - tools/ — config qualité (.php-cs-fixer.dist.php)
 
-## Checklist de rendu
-- [x] Lancement reproductible
-- [x] Séparation présentation / métier / données
-- [x] Inscription/connexion par email simulée
-- [x] Liste services / réservation / consultation / annulation
-- [x] Admin: ajouter service, ajouter/supprimer créneaux
-- [x] Règles: pas de double booking
-- [x] php-cs-fixer présent et .gitignore
+
 
 ## Notes
 - Données JSON auto-initialisées à la première exécution.
