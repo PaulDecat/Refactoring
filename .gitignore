@@ -1,0 +1,5 @@
+/vendor
+/data/*.json
+/.idea
+/.vscode
+/node_modules
